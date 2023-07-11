@@ -19,6 +19,12 @@ body {
     color: var(--primary-text);
     background: var(--primary-background);
 }
+table,th,tr,td{
+    border-style: solid;
+    border-collapse: collapse;
+    padding : 0.5rem;
+
+}
 
 body > header {
     margin-bottom: 2rem;
